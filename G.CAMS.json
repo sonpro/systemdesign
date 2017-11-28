@@ -1,0 +1,1 @@
+{"name":"G.CAMS","master":true,"version":"0.0.1","description":"Grant Concentration Account Management System\n","schemas":{},"models":{},"behaviors":{"w11c0a17e0813478":{"_id":"w11c0a17e0813478","component":"w154021d9ef1cdbd","state":"start","action":"function start() { \n\t\n}","useCoreAPI":false,"core":false}},"types":{},"components":{},"_id":"w154021d9ef1cdbd"}
